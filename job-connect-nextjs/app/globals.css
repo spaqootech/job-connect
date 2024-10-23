@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-shadow: 0px 0px 1px;
+}
+
+.bg-mypurple{
+  background-color: #6347F9;
+}
+
+.text-mypurple{
+  color: #6347F9;
+}
